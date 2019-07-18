@@ -1,0 +1,2 @@
+# sanity.io
+sanity.io
